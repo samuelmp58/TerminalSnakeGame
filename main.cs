@@ -136,8 +136,7 @@ namespace TerminalSnakeGame
             }
         }
 
-
-
+        
         public enum SnakeDirection
         {
             Up,
